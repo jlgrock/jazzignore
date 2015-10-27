@@ -1,0 +1,5 @@
+core.ignore= \
+	{.architect} \
+	{bootstrap.json} \
+	{build} \
+	{ext}

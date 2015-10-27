@@ -1,0 +1,3 @@
+core.ignore.recursive= \
+	{.sass-cache} \
+	{*.css.map}

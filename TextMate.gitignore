@@ -1,0 +1,4 @@
+core.ignore.recursive= \
+	{*.tmproj} \
+	{*.tmproject} \
+	{tmtags}

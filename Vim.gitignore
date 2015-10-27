@@ -1,0 +1,5 @@
+core.ignore.recursive= \
+	{*.un~} \
+	{Session.vim} \
+	{.netrwhist} \
+	{*~}

@@ -1,0 +1,10 @@
+core.ignore= \
+	{.gradle} \
+	{build} \
+
+	# Ignore Gradle GUI config
+	{gradle-app.setting}
+
+	# Need to figure out how to avoid ignoring Gradle wrapper jar file 
+	# (.jar files are usually ignored)
+	# !gradle-wrapper.jar

@@ -1,0 +1,8 @@
+core.ignore.recursive= \
+	{.cvsignore}
+
+core.ignore= \
+	{CVS/*} \
+	{*/CVS/*} \
+	{.cvsignore} \
+
